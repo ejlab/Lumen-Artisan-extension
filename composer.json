@@ -1,0 +1,12 @@
+{
+    "name": "ejlab/lumen_artisan_extension",
+    "description": "Lumen Artisan extension",
+    "type": "lumen-package",
+    "authors": [
+        {
+            "name": "Eunjun Park",
+            "email": "ej@ej-lab.com"
+        }
+    ],
+    "require": {}
+}
